@@ -1,5 +1,5 @@
 # vasc_enface_choroidal_analizer_UWF
-Quantitative widefield OCTA en face analysis of choroidal vortex venous system. ARVO 2026 abstract by Pedro Valls Alonso, Spain. 
+Quantitative widefield OCTA en face analysis of choroidal vortex venous system. ARVO 2026 abstract by Pedro Valls Alonso @pedrovaalo, Spain. 
 
 # OCTA Batch Analysis — v2
 
